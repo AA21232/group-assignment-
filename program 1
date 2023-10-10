@@ -4,14 +4,14 @@ class Main {
         System.out.println("o000()");
         System.out.println(" /  _)");
         System.out.println(" |  (");
-        System.out.println(" |__)    ()000o");
-        System.out.println("          (_  |");
+        System.out.println(" \\__)    ()000o");
+        System.out.println("          (_  \\");
         System.out.println("           )  |");
         System.out.println(" oOOO()    (__/");
         System.out.println(" /  _)");
         System.out.println(" |  (");
-        System.out.println(" |__)    ()000o");
-        System.out.println("          (_  |");
+        System.out.println(" \\__)    ()000o");
+        System.out.println("          (_  \\");
         System.out.println("           )  |");
         System.out.println("           (__/"); 
     
